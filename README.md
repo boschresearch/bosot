@@ -1,4 +1,4 @@
-# Structural kernel search via Bayesian Optimization and Symbolical Optimal Tranport
+# Structural kernel search via Bayesian Optimization and Symbolical Optimal Transport
 
 This code is belonging to the NeurIPS 2022 paper [Structural kernel search via Bayesian Optimization and Symbolical Optimal Tranport](https://arxiv.org/abs/2210.11836). The repo can be used to import and run our algorithm (see example) and to reproduce the experimental results in the paper. Please cite the paper when code is used for reproduction, reporting or extending of the method/code.
 
