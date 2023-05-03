@@ -1,0 +1,21 @@
+name: bosot
+
+dependencies:
+        - python=3.8
+        - numpy
+        - pandas
+        - pymc3
+        - scipy
+        - testfixtures
+        - Theano==1.0.4
+        - matplotlib
+        - pydantic
+        - pytest
+        - pytest-cov
+        - pip
+        - pip:
+                - tensorflow==2.8.0
+                - gpflow==2.4.0
+                - tensorflow-probability==0.16.0
+                - sklearn
+                - gpflux
